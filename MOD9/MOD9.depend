@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1638600845 source:c:\users\user\desktop\c++\12-04-2021\mod9\stack.cpp
+	"stack.h"
+
+1638600434 c:\users\user\desktop\c++\12-04-2021\mod9\stack.h
+	<iostream>
+
+1638602059 source:c:\users\user\desktop\c++\12-04-2021\mod9\main.cpp
+	"stack.h"
+	"queue.h"
+
+1638601816 source:c:\users\user\desktop\c++\12-04-2021\mod9\queue.cpp
+	"queue.h"
+
+1638601041 c:\users\user\desktop\c++\12-04-2021\mod9\queue.h
+	<iostream>
+
+1638600892 source:c:\users\user\desktop\c++\12-04-2021\mod9\mainq.cpp
+	"queue.h"
+
